@@ -3,7 +3,7 @@ import CampoTexto from '../CompoTexto'
 import ListaSuspensa from '../ListaSuspensa'
 import Botao from '../Botao'
 import { useState } from 'react'
-
+//cravertha
 const Formulario = (props) => {
 
    /*  const times=[
@@ -41,7 +41,7 @@ const Formulario = (props) => {
                 <CampoTexto obrigatorio={true}
                  label="Nome" 
                  placeholder="Digite seu nome" 
-                value={nome}
+                    value={nome}
                  aoAlterado={valor => setNome(valor)}
                 />
                 <CampoTexto obrigatorio={true}

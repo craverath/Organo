@@ -16,7 +16,7 @@ const Time = (props) =>{
              key={colaborador.nome}
              nome={colaborador.nome}
              cargo={colaborador.cargo}
-             colaborador={colaborador.imagem}
+             imagem={colaborador.imagem}
              />
              )}
         </div>
